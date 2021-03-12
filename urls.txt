@@ -1,0 +1,289 @@
+https://discomap.eea.europa.eu/map/fme/latest/AD_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AD_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AD_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AD_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/AD_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AD_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AD_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AT_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AT_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AT_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AT_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AT_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AT_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/AT_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BA_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BA_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BA_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BA_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BA_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BA_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BA_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BE_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BE_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BE_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BE_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BE_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BE_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BE_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_C6H5-CH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_H2S.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_m p-C6H4(CH3)2.csv  
+https://discomap.eea.europa.eu/map/fme/latest/BG_NH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/BG_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/BG_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CH_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CH_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CH_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/CH_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CH_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CH_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CH_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CY_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CY_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CY_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CY_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/CY_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CY_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CZ_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CZ_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CZ_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CZ_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/CZ_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CZ_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CZ_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/CZ_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_C6H5-CH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/DE_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DE_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DK_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DK_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DK_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DK_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/DK_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/EE_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/EE_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/EE_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/EE_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/EE_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/EE_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/EE_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/ES_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/ES_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FI_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FI_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FI_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FI_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FI_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FR_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FR_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FR_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FR_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/FR_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FR_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FR_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/FR_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GB_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GB_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GB_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/GB_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GB_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GB_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GB_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/GE_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_PM1.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GE_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GI_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GI_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GI_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GI_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/GI_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GI_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GR_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GR_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GR_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GR_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GR_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GR_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/GR_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HR_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HR_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HR_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HR_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/HR_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HR_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HR_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HR_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_C6H5-C2H5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_C6H5-CH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_m p-C6H4(CH3)2.csv  
+https://discomap.eea.europa.eu/map/fme/latest/HU_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/HU_o-C6H4-(CH3)2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/HU_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_C6H5-CH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/IE_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IE_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IS_H2S.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IS_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IS_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IS_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/IS_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IS_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IS_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_C6H5-CH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_CH4.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_H2S.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_NH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/IT_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_PM1.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/IT_THC (NM).csv  
+https://discomap.eea.europa.eu/map/fme/latest/LT_C6H5-CH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_CH2=CH-CH=CH2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_m p-C6H4(CH3)2.csv  
+https://discomap.eea.europa.eu/map/fme/latest/LT_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/LT_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LT_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_C6H5-CH3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/LU_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LU_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LV_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LV_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/LV_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MK_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MK_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MK_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MK_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/MK_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MK_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MK_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MK_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MT_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MT_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MT_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/MT_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MT_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MT_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/MT_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NL_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NL_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NL_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NL_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NL_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NL_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NL_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NO_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NO_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NO_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NO_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/NO_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NO_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NO_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/NO_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PL_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PL_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PL_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PL_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/PL_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PL_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PL_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PL_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PT_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PT_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PT_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PT_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PT_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PT_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/PT_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RO_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RO_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RO_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RS_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RS_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RS_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RS_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RS_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/RS_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SE_Black Carbon.csv  
+https://discomap.eea.europa.eu/map/fme/latest/SE_NO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SE_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SE_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/SE_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SE_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SE_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SE_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SI_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SI_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SI_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SI_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/SI_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SI_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SI_SO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_C6H6.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_CO.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_Hg0.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_NO2.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_NOX as NO2.csv 
+https://discomap.eea.europa.eu/map/fme/latest/SK_O3.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_PM10.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_PM2.5.csv   
+https://discomap.eea.europa.eu/map/fme/latest/SK_SO2.csv   
+

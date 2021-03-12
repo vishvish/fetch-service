@@ -1,0 +1,18 @@
+[package]
+name = "fetch-service"
+version = "0.1.0"
+authors = ["Vish Vishvanath <184423+vishvish@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.2.0", features = ["full"] }
+futures = "0.3.13"
+reqwest = { version = "0.11.1", features = ["json"] }
+backoff = "0.3.0"
+chrono = "0.4.19"
+async-std = "1.9.0"
+failure = "0.1.8"
+tempfile = "3.2.0"
+log = "0.4.*"
