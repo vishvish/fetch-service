@@ -1,17 +1,27 @@
 use std::fs;
 use std::path::{Path, PathBuf};
 use std::fs::File;
-use std::io::prelude::*;
-use std::io::{BufRead, BufReader, BufWriter};
+use std::io::{BufRead, BufReader};
 
 use chrono::prelude::*;
 use chrono::{DateTime, Utc};
 use futures::StreamExt;
 use tokio::io::AsyncWriteExt;
 use http::StatusCode;
-use log::{error, info};
+use log::info;
 
-type Error = Box<dyn std::error::Error + Send + Sync>;
+#[derive(Debug, thiserror::Error)]
+enum Error {
+    #[error("Download failed, unexpected response code {0} ({1})")]
+    DownloadFail(String, String),
+
+    #[error(transparent)]
+    Reqwest(#[from] reqwest::Error),
+
+    #[error(transparent)]
+    Io(#[from] std::io::Error),
+}
+
 type Result<T> = std::result::Result<T, Error>;
 
 fn read_lines<P: AsRef<Path>>(path: P) -> Result<Vec<(String, PathBuf)>> {
@@ -44,30 +54,20 @@ fn destination(url: &str) -> Result<PathBuf> {
     Ok(target)
 }
 
-async fn write_file<P: AsRef<Path>>(dest: P, data: String) -> Result<()> {
-    let mut buffer = BufWriter::new(File::create(dest.as_ref())?);
-    buffer.write_all(data.as_bytes())?;
-    Ok(())
-}
-
 async fn download<P: AsRef<Path>>(url: &str, dest: P) -> Result<()> {
     info!("Download {}", url);
     let mut response = reqwest::get(url).await?;
     if response.status() != StatusCode::OK {
-        /*
         return Err(Error::DownloadFail(
+            url.to_string(),
             response.status().to_string(),
-            url,
         ));
-        */
     }
-
     let file = File::create(dest.as_ref())?;
     let mut content_file = tokio::fs::File::from_std(file);
     while let Some(chunk) = response.chunk().await? {
         content_file.write_all(&chunk).await?;
     }
-
     Ok(())
 }
 
