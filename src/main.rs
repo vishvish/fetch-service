@@ -1,4 +1,5 @@
 use std::fs;
+use std::path::PathBuf;
 use std::fs::File;
 use std::io::prelude::*;
 use std::io::{BufRead, BufReader, BufWriter};
@@ -19,14 +20,13 @@ fn read_lines(path: &str) -> Result<Vec<String>> {
 
 async fn write_file(filename: &str, data: String) -> Result<()> {
     let utc: DateTime<Utc> = Utc::now();
-    let folder: String = format!(
-        "data/{year}/{month}/{day}/",
-        year = utc.year(),
-        month = utc.month(),
-        day = utc.day()
-    );
+    let folder = PathBuf::from("data")
+        .join(utc.year().to_string())
+        .join(utc.month().to_string())
+        .join(utc.day().to_string());
+    let target = folder.join(filename);
     let _ = fs::create_dir_all(&folder)?;
-    let mut buffer = BufWriter::new(File::create(folder + filename)?);
+    let mut buffer = BufWriter::new(File::create(&target)?);
     buffer.write_all(data.as_bytes())?;
     Ok(())
 }
