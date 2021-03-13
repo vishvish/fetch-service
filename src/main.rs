@@ -1,5 +1,5 @@
 use std::fs;
-use std::path::PathBuf;
+use std::path::{Path, PathBuf};
 use std::fs::File;
 use std::io::prelude::*;
 use std::io::{BufRead, BufReader, BufWriter};
@@ -12,10 +12,18 @@ use log::{error, info};
 type Error = Box<dyn std::error::Error + Send + Sync>;
 type Result<T> = std::result::Result<T, Error>;
 
-fn read_lines(path: &str) -> Result<Vec<String>> {
-    let file = File::open(path)?;
+fn read_lines<P: AsRef<Path>>(path: P) -> Result<Vec<String>> {
+    let file = File::open(path.as_ref())?;
     let reader = BufReader::new(file);
-    Ok(reader.lines().filter_map(std::result::Result::ok).collect())
+    let mut urls = Vec::new();
+    for line in reader.lines() {
+        let url = line?;
+        let url = url.trim().to_string();
+        if !url.is_empty() {
+            urls.push(url);
+        }
+    }
+    Ok(urls)
 }
 
 async fn write_file(filename: &str, data: String) -> Result<()> {
