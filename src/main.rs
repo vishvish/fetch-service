@@ -7,6 +7,8 @@ use std::io::{BufRead, BufReader, BufWriter};
 use chrono::prelude::*;
 use chrono::{DateTime, Utc};
 use futures::StreamExt;
+use tokio::io::AsyncWriteExt;
+use http::StatusCode;
 use log::{error, info};
 
 type Error = Box<dyn std::error::Error + Send + Sync>;
@@ -49,21 +51,33 @@ async fn write_file<P: AsRef<Path>>(dest: P, data: String) -> Result<()> {
 }
 
 async fn download<P: AsRef<Path>>(url: &str, dest: P) -> Result<()> {
-    match reqwest::get(url).await {
-        Ok(resp) => match resp.text().await {
-            Ok(text) => {
-                println!("RESPONSE: {} bytes from {}", text.len(), url);
-                let _res = write_file(dest.as_ref(), text).await;
-            }
-            Err(_) => error!("ERROR reading {}", url),
-        },
-        Err(_) => error!("ERROR downloading {}", url),
+    info!("Download {}", url);
+    let mut response = reqwest::get(url).await?;
+    if response.status() != StatusCode::OK {
+        /*
+        return Err(Error::DownloadFail(
+            response.status().to_string(),
+            url,
+        ));
+        */
     }
+
+    let file = File::create(dest.as_ref())?;
+    let mut content_file = tokio::fs::File::from_std(file);
+    while let Some(chunk) = response.chunk().await? {
+        content_file.write_all(&chunk).await?;
+    }
+
     Ok(())
 }
 
 #[tokio::main]
 async fn main() -> Result<()> {
+    if std::env::var("RUST_LOG").ok().is_none() {
+        std::env::set_var("RUST_LOG", "info");
+    }
+    pretty_env_logger::init_custom_env("RUST_LOG");
+
     // the urls.txt contains a link to the latest version of every file
     let urls = read_lines("urls.txt")?;
     let fetches = futures::stream::iter(urls.iter().map(|(url, dest)| download(url, dest)))
