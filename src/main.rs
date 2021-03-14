@@ -43,10 +43,12 @@ fn destination(url: &str) -> Result<PathBuf> {
     let utc: DateTime<Utc> = Utc::now();
     let mut base = url.split('/');
     let filename = base.next_back().unwrap();
+    let country_prefix = &filename[0..2];
     let folder = PathBuf::from("data")
         .join(utc.year().to_string())
         .join(utc.month().to_string())
-        .join(utc.day().to_string());
+        .join(utc.day().to_string())
+        .join(country_prefix);
     let target = folder.join(filename);
     if !folder.exists() {
         fs::create_dir_all(&folder)?;
