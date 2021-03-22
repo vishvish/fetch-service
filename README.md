@@ -1,5 +1,9 @@
 # Air Quality Data Pipeline
 
+Imports European Air Quality data from the service here: https://discomap.eea.europa.eu/map/fme/AirQualityUTDExport.htm
+
+Files are recreated every 30 minutes and contain 48 hours of data.
+
 ### Download the daily data files from the European repository
 
 `cargo run`
