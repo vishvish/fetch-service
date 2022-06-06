@@ -5,7 +5,7 @@ authors = ["Vish Vishvanath <184423+vishvish@users.noreply.github.com>"]
 edition = "2018"
 
 [dependencies]
-tokio = { version = "1.2.0", features = ["full"] }
+tokio = { version = "1.8.4", features = ["full"] }
 futures = "0.3.13"
 reqwest = { version = "0.11.1", features = ["json"] }
 chrono = "0.4.19"
